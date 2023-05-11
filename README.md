@@ -23,7 +23,7 @@ To run this application on your local machine, make sure you have Flutter instal
 2. Navigate to the project directory:
 
    ```bash
-   cd flutter-hive-todo-app
+   cd flutter_hive_r_and_d
    ```
 
 3. Install the dependencies:
