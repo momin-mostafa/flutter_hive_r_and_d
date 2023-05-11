@@ -80,4 +80,3 @@ This application utilizes the following open-source packages:
 
 For any inquiries or questions, please contact mominmostafa.g@outlook.com.
 
-Happy task management!
